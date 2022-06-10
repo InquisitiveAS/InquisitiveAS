@@ -10,7 +10,7 @@
 
 🔭 I'm currently investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
 
-🌱 I’m currently learning: Interdisciplinary things!
+🌱 I’m currently learning: Interdisciplinary Technology Stack!
 
 💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC
 
