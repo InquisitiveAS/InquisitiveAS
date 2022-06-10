@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:man:	I'm Abhishek S Shinde
+🔭 I’m currently working on ...
+📫 How to reach me: ..
+
 <!--
 **InquisitiveAS/InquisitiveAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
