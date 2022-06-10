@@ -1,12 +1,14 @@
 ### Hi visitors 👋
 
-:man:	I'm Abhishek S Shinde. An architect,computer science enthusiast,robotist ,polyglot,technocrat,interdisciplinary & independent  researcher. 
+👨 I'm Abhishek S Shinde. An architect by profession & maker developing towards Software Development for Computational Design
 
-I'm building something for AEC industry 
+🎓University of Michigan Alumni
 
-🔭 I’m currently working on ...Check this space out
+I'm developing something for AEC industry 
 
-💬 Ask me about: Computational Design, DfMa for AEC ,......Check this space out
+🔭 I'm currently investigating intersection of: 🚧 ,💻,🤖,🏭 collaboration with 👷for AEC
+
+💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC,......Check this space out(More to come!)
 
 📫 How to reach me: arabhishek1091@gmail.com
 
