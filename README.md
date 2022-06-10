@@ -6,11 +6,11 @@
 
 👨‍💻 I'm developing tools for AEC Worflows & DfMa for AEC
 
-👯 I’m looking to collaborate on: Reach out to me!
+👯 I’m looking to collaborate on: AEC allied fields 
 
 🔭 I'm currently investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
 
-🌱 I’m currently learning: 
+🌱 I’m currently learning: Interdisciplinary things!
 
 💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC
 
