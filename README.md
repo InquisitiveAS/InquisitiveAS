@@ -4,7 +4,7 @@
 
 🎓University of Michigan Alumni
 
-I'm developing something for AEC industry 
+👨‍💻 I'm developing something for AEC industry 
 
 🔭 I'm currently investigating intersection of: 🚧 ,💻,🤖,🏭 collaboration with 👷for AEC
 
