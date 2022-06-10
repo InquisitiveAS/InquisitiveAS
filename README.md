@@ -1,18 +1,18 @@
-### Hi visitors 👋
+### Visitors and Developers !
 
-👨 I'm Abhishek S Shinde. An architect by profession & maker developing towards Software Development for Computational Design
+🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao
 
-🎓University of Michigan Alumni
+👨 I'm Abhishek S Shinde. An architect by profession & Maker developing towards Software Development for Computational Design
 
 👨‍💻 I'm developing something for AEC industry 
 
-🔭 I'm currently investigating intersection of: 🚧 ,💻,🤖,🏭 collaboration with 👷for AEC
+🔭 I'm currently investigating intersection of: 🚧 ,💻,🤖,🏭 in collaboration with 👷for AEC
 
 💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC,......Check this space out(More to come!)
 
-📫 How to reach me: arabhishek1091@gmail.com
+📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion: Digital Fabrication,Computational Design,....Coming soon
+⚡ Passion: Digital Fabrication,Computational Design,....Check this space out(More to come!)
 
 <!--
 **InquisitiveAS/InquisitiveAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
