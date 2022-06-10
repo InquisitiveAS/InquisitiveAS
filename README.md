@@ -2,7 +2,7 @@
 
 🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao
 
-👨 I'm Abhishek S Shinde. An architect by profession & Maker working towards Software Development for Computational Design
+👨 I'm Abhishek S Shinde. An architect by profession & Maker working towards Software Development
 
 👨‍💻 I'm developing something for AEC industry 
 
@@ -12,7 +12,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion: Digital Fabrication,Computational Design,....Check this space out(More to come!)
+⚡ Passion:Digital Fabrication,Computational Design for CAD Modeling,....Check this space out(More to come!)
 
 🔬 Specializing:Check this space out(More to come!)
 
