@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 :man:	I'm Abhishek S Shinde
+
 🔭 I’m currently working on ...
+
 📫 How to reach me: ..
 
 <!--
