@@ -1,4 +1,4 @@
-### 🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao  👋Hi
+### 🙏Namaste  👋Hola   👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは
 
 
 👨 I'm Abhishek S Shinde. An architect by profession & Maker by choice working towards Software Development
