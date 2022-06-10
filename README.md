@@ -12,11 +12,11 @@
 
 🌱 I’m currently learning: 
 
-💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC,......Check this space out(More to come!)
+💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning,Deep Learning, Optimization, Perception & Sensing , Robotics Engineering ....Check this space out(More to come!)
+⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning,Deep Learning, Optimization, Perception & Sensing , Robotics Engineering, Blockchain Technologies, Full Stack Development ....Check this space out(More to come!)
 
 🔬 Specializing: Check this space out(More to come!)
 
