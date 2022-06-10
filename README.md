@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi visitors 👋
 
-:man:	I'm Abhishek S Shinde
+:man:	I'm Abhishek S Shinde. An architect,computer science enthusiast,robotist ,polyglot,technocrat,interdisciplinary & independent  researcher. 
 
-🔭 I’m currently working on ...
+I'm building something for AEC industry 
 
-📫 How to reach me: ..
+🔭 I’m currently working on ...Check this space out
+
+💬 Ask me about: Computational Design, DfMa for AEC ,......
+
+📫 How to reach me: arabhishek1091@gmail.com
+
+⚡ Passion: Digital Fabrication,.....
 
 <!--
 **InquisitiveAS/InquisitiveAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
