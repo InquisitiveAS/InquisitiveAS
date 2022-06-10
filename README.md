@@ -4,7 +4,7 @@
 
 👨 I'm Abhishek S Shinde. An architect by profession & Maker by choice working towards Software Development
 
-👨‍💻 I'm developing tools for AEC Construction Workflows(Onsite & Offsite) & DfMa for AEC
+👨‍💻 I'm developing Automation tools for AEC Construction Workflows(Onsite & Offsite) & DfMa for AEC
 
 👯 I’m looking to collaborate on: AEC allied fields 
 
