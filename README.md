@@ -1,7 +1,4 @@
 ### 🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao 
-     Visitors and Developers !
-
-
 
 👨 I'm Abhishek S Shinde. An architect by profession & Maker by choice working towards Software Development
 
