@@ -6,7 +6,7 @@ I'm building something for AEC industry
 
 🔭 I’m currently working on ...Check this space out
 
-💬 Ask me about: Computational Design, DfMa for AEC ,......
+💬 Ask me about: Computational Design, DfMa for AEC ,......Check this space out
 
 📫 How to reach me: arabhishek1091@gmail.com
 
