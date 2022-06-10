@@ -14,9 +14,9 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion:Digital Fabrication,Computational Design for CAD Modeling,....Check this space out(More to come!)
+⚡ Passion: Digital Fabrication,Computational Design for CAD Modeling,....Check this space out(More to come!)
 
-🔬 Specializing:Check this space out(More to come!)
+🔬 Specializing: Check this space out(More to come!)
 
 <!--
 **InquisitiveAS/InquisitiveAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
