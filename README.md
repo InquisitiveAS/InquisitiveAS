@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning: Interdisciplinary Technology Stack!
 
-💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC
+💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC,Robotic Fabrication for AEC
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
