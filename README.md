@@ -2,7 +2,7 @@
 
 🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao
 
-👨 I'm Abhishek S Shinde. An architect by profession & Maker developing towards Software Development for Computational Design
+👨 I'm Abhishek S Shinde. An architect by profession & Maker working towards Software Development for Computational Design
 
 👨‍💻 I'm developing something for AEC industry 
 
