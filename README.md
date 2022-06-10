@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on: AEC allied fields 
 
-🔭 I'm currently investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
+🔭 I'm currently independtly investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
 
 🌱 I’m currently learning: Interdisciplinary Technology Stack!
 
