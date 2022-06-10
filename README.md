@@ -6,7 +6,7 @@
 
 👨‍💻 I'm developing something for AEC industry 
 
-🔭 I'm currently investigating intersection of: 🚧 ,💻,🤖,🏭 in collaboration with 👷for AEC
+🔭 I'm currently investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
 
 🌱 I’m currently learning .....
 
