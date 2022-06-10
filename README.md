@@ -12,7 +12,7 @@ I'm developing something for AEC industry
 
 📫 How to reach me: arabhishek1091@gmail.com
 
-⚡ Passion: Digital Fabrication,.....
+⚡ Passion: Digital Fabrication,Computational Design,....Coming soon
 
 <!--
 **InquisitiveAS/InquisitiveAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
