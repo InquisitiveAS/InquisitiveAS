@@ -8,7 +8,7 @@
 
 🔭 I'm currently investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
 
-🌱 I’m currently learning .....
+🌱 I’m currently learning:......
 
 💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC,......Check this space out(More to come!)
 
