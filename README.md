@@ -1,6 +1,7 @@
-### Visitors and Developers !
+### 🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao 
+# Visitors and Developers !
 
-🙏Namaste , 👋Hola , 👋Hallo , 👌Ciao
+
 
 👨 I'm Abhishek S Shinde. An architect by profession & Maker by choice working towards Software Development
 
