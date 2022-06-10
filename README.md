@@ -16,7 +16,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning,Deep Learning, Optimization, Perception & Sensing , Robotics Engineering, Blockchain Technologies, Full Stack Development ....Check this space out(More to come!)
+⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning & Deep Learning Techniques, Optimization, Perception & Sensing , Robotics Engineering, Blockchain Technologies, Full Stack Development ....Check this space out(More to come!)
 
 🔬 Specializing: Check this space out(More to come!)
 
