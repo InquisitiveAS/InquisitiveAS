@@ -6,7 +6,7 @@
 
 👨‍💻 I'm developing Automation tools for AEC Construction Workflows(Onsite & Offsite) & DfMa for AEC
 
-👯 I’m looking to collaborate on: AEC allied fields 
+👯 I’m looking to collaborate on: Solving AEC problems using Technology
 
 🔭 I'm currently independtly investigating intersection of: 🦾,💻,🤖,🏭 in collaboration with 👷for AEC🚧
 
