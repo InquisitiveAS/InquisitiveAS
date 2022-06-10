@@ -12,11 +12,11 @@
 
 🌱 I’m currently learning: Interdisciplinary Technology Stack!
 
-💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Software Development for AEC,Robotic Fabrication for AEC
+💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Robotic Fabrication for AEC
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning & Deep Learning Techniques, Optimization, Perception & Sensing,Computer Vision,Robotics Engineering, Blockchain Technologies, Full Stack Development , Human Robot Interaction(HRI), Autonomous Robots
+⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning & Deep Learning Techniques, Optimization,Perception & Sensing,Computer Vision,Robotics Engineering,Human Robot Interaction(HRI), Autonomous Robots ,Construction Robotics
 
 🔬 Specializing: Check this space out(More to come!)
 
