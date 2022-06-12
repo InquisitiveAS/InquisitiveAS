@@ -8,9 +8,9 @@
 
 👨‍💻 I'm developing: Automation tools for AEC🚧Workflows(Onsite & Offsite DfMa, Industralized Roboticized Construction). 
 
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(AI,Software,Robotics,IOT).
+👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(AI,Software,Robotics,IOT,HCI,HRI).
 
-🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 🦾,💻,🤖,🏭 in collaboration with 👷AEC Humans.
+🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 🦾,💻,🤖,🏭 and 👷AEC Humans.
 
 🌱 I’m currently learning: Interdisciplinary Technology Stack!
 
