@@ -5,7 +5,7 @@
 
 👨 An architect by profession & Maker by choice working towards Software Developer career(AEC DfMA & Robotics).
 
-👨‍💻 I'm developing: Automation tools for AEC🚧Workflows(Onsite & Offsite DfMa, Industralized Roboticized Construction). 
+👨‍💻 I'm developing: Automation tools for AEC🚧Workflows(Onsite & Offsite DfMa, Industralized & Roboticized Construction). 
 
 👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(AI,Software,Robotics,IOT,HCI,HRI).
 
