@@ -4,15 +4,15 @@
 
 👨 I'm Abhishek S Shinde. An architect by profession & Maker by choice working towards Software Developer career(AEC DfMA & Robotics).
 
-👨‍💻 I'm developing: Automation tools for AEC🚧Workflows(Onsite & Offsite) & DfMa for AEC🚧(Roboticized & Industrialized)
+👨‍💻 I'm developing: Automation tools for AEC🚧Workflows(Onsite & Offsite DfMa, Industralized Roboticized Construction). 
 
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology.
+👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(AI,Software,Robotics,IOT).
 
-🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 🦾,💻,🤖,🏭 in collaboration with 👷Humans(Construction Workers,Makers,Subcontractors).
+🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 🦾,💻,🤖,🏭 in collaboration with 👷AEC Humans.
 
 🌱 I’m currently learning: Interdisciplinary Technology Stack!
 
-💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized), Robotic Fabrication for AEC, Construction Robotics.
+💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized),Construction Robotics, AEC Software development.
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
