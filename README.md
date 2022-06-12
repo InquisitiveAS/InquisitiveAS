@@ -2,8 +2,6 @@
 
 
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
-#AEC Software Developer
-
 
 👨 An architect by profession & Maker by choice working towards Software Developer career(AEC DfMA & Robotics).
 
