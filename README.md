@@ -16,11 +16,10 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning & Deep Learning Techniques, Optimization,Perception & Sensing,Computer Vision,Robotics Engineering,Human Robot Interaction(HRI), Autonomous Robots ,Construction Robotics.
 
-🔬 Specializing: Check this space out(More to come!)
 
 <!--
+COMMENTED OUT README HERE v
 **InquisitiveAS/InquisitiveAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Passion: Digital & Robotic Fabrication,Computational Design for CAD Modeling,Data Science,Machine Learning & Deep Learning Techniques, Optimization,Perception & Sensing,Computer Vision,Robotics Engineering,Human Robot Interaction(HRI), Autonomous Robots ,Construction Robotics.
+
+- 🔬 Specializing: Check this space out(More to come!)
 -->
