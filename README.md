@@ -2,9 +2,9 @@
 
 
 
-👨 I'm Abhishek S Shinde. 
+# I'm Abhishek S Shinde. 
 
-   An architect by profession & Maker by choice working towards Software Developer career(AEC DfMA & Robotics).
+👨 An architect by profession & Maker by choice working towards Software Developer career(AEC DfMA & Robotics).
 
 👨‍💻 I'm developing: Automation tools for AEC🚧Workflows(Onsite & Offsite DfMa, Industralized Roboticized Construction). 
 
