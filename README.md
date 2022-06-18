@@ -7,7 +7,7 @@
 
 👨‍💻 I'm developing: Computational Automation Tools for AEC(Coming soon!)
 
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(AI,Software,Robotics,IOT,HCI,HRI).
+👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(AI,ML,Robotics,IOT,HCI,HRI).
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 🦾,💻,🤖,🏭 and 👷AEC Humans.
 
