@@ -3,7 +3,7 @@
 
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
 
-👨 An architect by profession & Maker by choice working towards Software Developer career(AEC DfMA & Construction Robotics).
+👨 An architect by profession & Maker by choice working towards Software Developer Career Path (AEC DfMA & Construction Robotics).
 
 👨‍💻 I'm developing: Computational Automation Tools for AEC(Coming soon!)
 
@@ -17,6 +17,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
+![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 <!--
