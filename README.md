@@ -11,7 +11,7 @@
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 🦾,💻,🤖,🏭 and 👷AEC Humans.
 
-🌱 I’m currently learning: 💻Technology Stack for Software Development for 💻 and 🤖 !!
+🌱 I’m currently learning: 💻 Development Technology Stack for AEC: Computational Design and 🤖 Fabrication !!
 
 💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized),Construction Robotics, AEC Software development.
 
