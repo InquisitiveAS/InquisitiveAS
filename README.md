@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for AEC: Computational Design and 🤖 Fabrication !!
 
-💬 Ask me about: Computational Design, DfMa for AEC (Industralized & Roboticized),Construction Robotics, AEC Software development.
+💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
