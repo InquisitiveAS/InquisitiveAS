@@ -7,7 +7,7 @@
 
 👨‍💻 I'm developing: Computational Automation Tools for AEC(Coming soon!)
 
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning,Machine Learning,Data Science,Robotics Engineering,Computational Design,Data Strucutre & Algorithms and Computational Geometry).
+👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning,Machine Learning,Data Science,Robotics Engineering,Computational Design,Data Structures & Algorithms and Software Development).
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
