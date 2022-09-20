@@ -11,11 +11,17 @@
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
-🌱 I’m currently learning: 💻 Development Technology Stack for AEC: Computational Design(Rhino,Revit,Inventor,Forge API,BIM360 API,Retool), Software Development(.NET,Javascript,Node.js,React.js,Data Science & Machine Learning Packages) and 🤖 Fabrication( Compas-Fab,ROS,C++,OpenCV) !!
+🌱 I’m currently learning: 💻 Development Technology Stack for AEC: 
+
+1. Computational Design(Rhino,Revit,Inventor,Forge API,BIM360 API,Retool)
+2. Software Development(.NET,Javascript,Node.js,React.js,Data Science & Machine Learning Packages)
+3. RoboticFabrication( Compas-Fab,ROS,Linux,Gazebo,C++,OpenCV) !!
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
+
+- 🔬 Specializing: Check this space out(More to come!)
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
