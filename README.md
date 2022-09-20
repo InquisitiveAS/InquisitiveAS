@@ -11,7 +11,7 @@
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
-🌱 I’m currently learning: 💻 Development Technology Stack for AEC: Computational Design and 🤖 Fabrication !!
+🌱 I’m currently learning: 💻 Development Technology Stack for AEC: Computational Design(Rhino,Revit,Inventor,Forge API,BIM360 API,Retool), Software Development(.NET,Javascript,Node.js,React.js,Data Science & Machine Learning Packages) and 🤖 Fabrication( Compas-Fab,ROS,C++,OpenCV) !!
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
