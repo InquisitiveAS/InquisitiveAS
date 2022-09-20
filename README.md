@@ -21,7 +21,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-- 🔬 Specializing: Check this space out(More to come!)
+🔬 Specializing: Check this space out(More to come!)
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
