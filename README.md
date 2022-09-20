@@ -14,7 +14,7 @@
 🌱 I’m currently learning: 💻 Development Technology Stack for AEC: 
 
 1. Computational Design(Rhino,Revit,Inventor,Forge API,BIM360 API,Retool)
-2. Software Development(.NET,Javascript,Node.js,React.js,Data Science & Machine Learning Packages)
+2. Software Development(.NET,Javascript,Node.js,React.js,Data Science & Machine Learning Packages in Python)
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
