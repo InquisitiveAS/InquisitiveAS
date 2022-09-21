@@ -11,10 +11,10 @@
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
-🌱 I’m currently learning: 💻 Development Technology Stack for AEC: 
+🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC: 
 
-1. Computational Design- Windows Application Development for (Rhino,Revit,Inventor,Forge API,BIM360 API,Retool)
-2. Web Development(.NET,Javascript,Xamarin)
+1. Windows Application Development for (Rhino,Revit,Inventor,Forge API,BIM360 API,Retool) - (.NETCore,ASP.Net)
+2. Web Development(Javascript, .Node.js, React.js)
 3. Data Science Packages (MySQL,Excel)
 4. Machine Learning(Deep Learning Focus) Packages in Python(Numpy,Pandas,Pytorch,ScikitLearn,scipy,matplotlib,Tensorflow)
 
@@ -22,7 +22,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-🔬 Year of Experience : Python(3) , C#(2) , .NET(1) , C++(0.3), Grasshopper3D (6), Processing3(3)
+🔬 Year of Experience : Python(3) , C#(2) , .NET(1) , C++(0.3), Grasshopper3D (6), Processing3(3) , 
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
