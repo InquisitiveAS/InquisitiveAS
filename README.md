@@ -22,7 +22,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-🔬 Year of Experience : Python(3) , C#(2) , .NET(1) , C++(0.3)
+🔬 Year of Experience : Python(3) , C#(2) , .NET(1) , C++(0.3), Grasshopper3D (6), Processing3(3)
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
