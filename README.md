@@ -13,10 +13,10 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for AEC: 
 
-1. Computational Design(Rhino,Revit,Inventor,Forge API,BIM360 API,Retool)
-2. Web Development(.NET,Javascript,Node.js,React.js,Typescript)
+1. Computational Design- Windows Application Development for (Rhino,Revit,Inventor,Forge API,BIM360 API,Retool)
+2. Web Development(.NET,Javascript,Xamarin)
 3. Data Science Packages (MySQL,Excel)
-4. Machine Learning(Deep Learning Focus) Packages in Python(Numpy,Pandas,Pytorch,ScikitLearn,scipy,Tensorflows)
+4. Machine Learning(Deep Learning Focus) Packages in Python(Numpy,Pandas,Pytorch,ScikitLearn,scipy,matplotlib,Tensorflow)
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
