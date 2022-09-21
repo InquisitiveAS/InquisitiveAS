@@ -14,7 +14,7 @@
 🌱 I’m currently learning: 💻 Development Technology Stack for AEC: 
 
 1. Computational Design(Rhino,Revit,Inventor,Forge API,BIM360 API,Retool)
-2. Web Developmenmt(.NET,Javascript,Node.js,React.js,Typescript)
+2. Web Development(.NET,Javascript,Node.js,React.js,Typescript)
 3. Data Science Packages (MySQL,Excel)
 4. Machine Learning(Deep Learning Focus) Packages in Python(Numpy,Pandas,Pytorch,ScikitLearn,scipy,Tensorflows)
 
