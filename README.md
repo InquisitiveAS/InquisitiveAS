@@ -4,7 +4,8 @@
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
 
 👨 An architect by profession & Maker by choice working towards Software Developer Career Path (AEC DfMA & Construction Robotics). 
-   Goal: Seek perfect balance between Digital & Robotic Fabrication (Dfma)[CNC,CAD-CAM,etc],Robotics Engineering[AEC focused] & Computational Design workflows
+   
+⚡Goal: Seek perfect balance between Digital & Robotic Fabrication (Dfma)[CNC,CAD-CAM,etc],Robotics Engineering[AEC focused] & Computational Design workflows
 
 👨‍💻 I'm developing: Computational Automation Tools for AEC(Coming soon!)
 
