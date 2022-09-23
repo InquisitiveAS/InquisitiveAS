@@ -11,7 +11,7 @@
 
 🔭 I'm independently investigating:  Solutions for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
-🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC: 
+🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC : &darr; 
 
 1. Windows Application Development for (Rhino,Revit,Inventor,Forge API,BIM360 API,Retool) - (.NETCore,ASP.Net)
 2. Front End Web Development(Javascript, .Node.js, React.js)
