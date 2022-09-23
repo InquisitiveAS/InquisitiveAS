@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC : &darr; 
 
-1. Windows Application Development for (Rhino,Revit,Inventor,Forge API,BIM360 API,Retool) - (.NETCore,ASP.Net)
+1. Windows Application Development for (Rhino,Revit,Inventor,Forge API,BIM360 API,Retool) - (.NETCore,ASP.Net,C# WPF, Python GUI)
 2. Front End Web Development(Javascript, .Node.js, React.js)
 3. Back End Web Packages (SQL, PostGRESQL ,MySQL,Excel)
 4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python(Numpy,Pandas,Pytorch,ScikitLearn,scipy,matplotlib,Tensorflow)
