@@ -13,9 +13,9 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
 
-1. Windows Application Development for (Rhino,Revit,Inventor) - (.NETCore,ASP.Net,C# WPF, Python GUI) - SEEKING EXPERTISE !
-2. Front End Web Development(Javascript, .Node.js, React.js,ReTool) - BASICS ONLY !
-3. Back End Web Development(SQL, PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API) - BASICS ONLY !
+1. Windows Application Development for (Rhino,Revit,Inventor & Future CAD Programs) - (.NETCore,ASP.Net,C# WPF, Python GUI,VB.NET) - SEEKING EXPERTISE !
+2. Front End Web Development(Javascript, .Node.js, React.js,ReTool) - BASICS ONLY ! (Not seeking expetise)
+3. Back End Web Development(SQL, PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API) - BASICS ONLY ! (Not seeking expetise)
 4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras) - SEEKING EXPERTISE !
 5. Soon to Come - SEEKING EXPERTISE !
 
@@ -24,7 +24,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-🔬 Year of Experience : Python(3) , C#(2) , .NET Core(1) , C++(0.3), Javascript(0.3)
+🔬 Year of Experience : Python(3) , C#(2) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1)
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
