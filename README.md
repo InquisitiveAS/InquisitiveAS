@@ -15,11 +15,11 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
 
-1. Windows Application Development for (Rhino,Revit,Inventor & Future CAD Programs) - (.NETCore,ASP.Net,C# WPF, Python GUI,VB.NET) - SEEKING EXPERTISE !
-2. Front End Web Development(Javascript, .Node.js, React.js,ReTool) - BASICS ONLY ! (Not seeking expetise)
-3. Back End Web Development(SQL, PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API) - BASICS ONLY ! (Not seeking expetise)
-4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras) - SEEKING EXPERTISE !
-5. Soon to Come - SEEKING EXPERTISE !
+1. Windows Application Development for (Rhino,Revit,Inventor & Future CAD Programs) - (.NETCore,ASP.Net,C# WPF, Python GUI,VB.NET)
+2. Front End Web Development(Javascript, .Node.js, React.js,ReTool)
+3. Back End Web Development(SQL, PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API)
+4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
+5. Robotic Fabrication Stack(Soon to Come!!)
 
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
