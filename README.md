@@ -26,7 +26,7 @@
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-🔬 Year of Experience : Python(3) , C#(2) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1)
+🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) 
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
