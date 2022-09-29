@@ -17,7 +17,7 @@
 
 1. Windows Application Development for (Rhino,Revit,Inventor & Future CAD Programs) - (.NETCore,ASP.Net,C# WPF, Python GUI,VB.NET)
 2. Front End Web Development(Javascript, .Node.js, React.js,ReTool)
-3. Back End Web Development(SQL, PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API)
+3. Back End Web Development(SQL, PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API, AWS , Google Cloud)
 4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
 5. Robotic Fabrication Stack(Soon to Come!!)
 
