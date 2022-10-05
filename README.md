@@ -20,6 +20,7 @@
 3. Back End Web Development(SQL,NoSQL,PostGRESQL ,MySQL,Excel, API Management & Authentication like Forge API, BIM360 API, AWS , Google Cloud)
 4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
 5. Robotic Fabrication Stack(Soon to Come!!)
+6. Computational | Parametric Modeling (Grasshopper3d, Processing 3.0, Dynamo)
 
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
