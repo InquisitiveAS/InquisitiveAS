@@ -15,12 +15,12 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
 
-1. Windows Application Development for (Rhino,Revit,Inventor & Mainstream CAD Programs in AEC & Manufacturing) - (.NETCore,ASP.Net,C# WPF, Python GUI,VB.NET)
+1. Windows Application Development for (Rhino,Revit,Inventor & Mainstream CAD Programs in AEC & Manufacturing) - (.NETCore,ASP.Net,C# WPF, Python GUI,C++)
 2. Front End Web Development(Javascript)
 3. Back End Web Development(MySQL,Excel,API Management & Authentication like Forge API, BIM360 API)
 4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
 5. Robotic Fabrication Stack(Soon to Come!!)
-6. Computational Design | Parametric Modeling (Grasshopper3d, Processing 3.0, Dynamo)
+6. Computational Design | Parametric Modeling (Grasshopper3d, Processing 3.0, Dynamo,C++ applications)
 
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
