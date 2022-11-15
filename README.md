@@ -13,12 +13,17 @@
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
 
-1. Windows Application Development expertise (Rhino,Revit,Inventor & Mainstream CAD Programs in AEC & Manufacturing) - (.NETCore,ASP.Net,C# WPF, Python GUI,C++)
-2. Front End Web Development basics only (Javascript,Typescript,HTML,CSS)
-3. Back End Web Development basics only (MySQL,Excel,API Management & Authentication like Forge API, BIM360 API)
-4. Machine Learning(Deep Learning Focus) & Data Science expertise in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
-5. Robotic Fabrication Stack expertise (Soon to Come!!)
-6. Computational Design | Parametric Modeling expertise (Grasshopper3d, Processing 3.0, Dynamo,C++ applications)
+1. EXPERTISE: 
+a. Windows &  Cross Platform Application Development(Rhino,Revit,Inventor & Mainstream CAD Programs in AEC & Manufacturing) - (.NETCore,ASP.Net,C# WPF, Python GUI,C++)
+b. Computational Design | Parametric Modeling (Grasshopper3d, Processing 3.0, Dynamo , C++ ,Python & C# for Autodesk & McNeel)
+c. Machine Learning(Deep Learning Focus) & Data Science in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
+d. Robotic Fabrication Stack(Soon to Come!!)
+
+
+2. GENERALIST:
+a. Front End Web Development basics only (Javascript,Typescript,HTML,CSS)
+b. Back End Web Development basics only (MySQL,Excel,API Management & Authentication like Forge API, BIM360 API, Grasshopper Plugins)
+
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
