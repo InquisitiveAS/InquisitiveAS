@@ -5,29 +5,26 @@
 
 👨 An architect by profession & Maker by choice working towards Software Developer Career Path (AEC DfMA & Construction Robotics). 
    
-⚡Goal: Seek perfect balance between Digital & Robotic Fabrication (Dfma)[CNC,CAD-CAM,etc], Robotics Engineering[AEC focused] & Computational Design workflows[AEC focused & geometry focused]
+⚡Goal: Seek perfect balance between AECFabrication (Dfma)[CNC,CAD-CAM,Robotic & Digital], Robotics Engineering[AEC focused] & Computational Design workflows[AEC focused & geometry focused]
 
-👨‍💻 I'm developing: Computational Automation Tools for AEC(Coming soon!)
+🔭 I'm independently developing(free time): Open Source Computational tools for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning,Machine Learning,Data Science,Robotics Engineering,Computational Design,Data Structures & Algorithms and Software Development).
-
-🔭 I'm independently investigating(free time): Open Source Solutions for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
+👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning,Data Science,Robotics Engineering,Computational Design and Software Development).
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
 
 1. Windows Application Development for (Rhino,Revit,Inventor & Mainstream CAD Programs in AEC & Manufacturing) - (.NETCore,ASP.Net,C# WPF, Python GUI,C++)
-2. Front End Web Development(Javascript)
+2. Front End Web Development(Javascript,Typescript,HTML,CSS)
 3. Back End Web Development(MySQL,Excel,API Management & Authentication like Forge API, BIM360 API)
 4. Machine Learning(Deep Learning Focus) & Data Science Packages in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
 5. Robotic Fabrication Stack(Soon to Come!!)
 6. Computational Design | Parametric Modeling (Grasshopper3d, Processing 3.0, Dynamo,C++ applications)
 
-
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
 
 📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
 
-🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) 
+🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) , C(1)
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
