@@ -3,33 +3,22 @@
 
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
 
-👨 An architect by profession & Maker by choice working towards Software Developer Career Path (BIM , AEC Tool development, AEC DfMA & Construction Robotics). 
+👨 An architect by profession and maker by curiosity working towards a Software Developer Career Path (BIM, AEC Tool development, AEC DfMA & Construction Robotics). 
    
-⚡Goal: Seek perfect balance between AECFabrication (Dfma)[CNC,CAD-CAM,Robotic & Digital], Robotics Engineering[AEC focused] & Computational Design workflows[AEC focused & geometry focused]
+⚡Goal: Seek perfect balance between AECFabrication (Dfma)[CNC,CAD-CAM,Robotic & Digital], Robotics Engineering[AEC focused] & Computational Design workflows[AEC focused]
 
 🔭 I'm independently developing(free time): Open Source Computational tools for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
 
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning,Data Science,Robotics Engineering,Computational Design and Software Development).
+👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning, Data Science, Robotics Engineering, Computational Design, and Software Development).
 
 🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
 
-1. EXPERTISE: 
-a. Windows &  Cross Platform Application Development(Rhino,Revit,Inventor & Mainstream CAD Programs in AEC & Manufacturing) - (.NETCore,ASP.Net,C# WPF, Python GUI,C++)
-b. Computational Design | Parametric Modeling (Grasshopper3d, Processing 3.0, Dynamo , C++ ,Python & C# for Autodesk & McNeel)
-c. Machine Learning(Deep Learning Focus) & Data Science in Python (Numpy,Pandas,Pytorch,Tensorflow,ScikitLearn,scipy,matplotlib,seaborn,Keras)
-d. Robotic Fabrication Stack(Soon to Come!!)
+💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industrialized and roboticized), Construction Robotics, Robotic Fabrication, and AEC Software development.
 
-
-2. GENERALIST:
-a. Front End Web Development basics only (Javascript,Typescript,HTML,CSS)
-b. Back End Web Development basics only (MySQL,Excel,API Management & Authentication like Forge API, BIM360 API, Grasshopper Plugins)
-
-
-💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industralized & Roboticized),Construction Robotics, Robotic Fabrication and AEC Software development.
-
-📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu
+📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu for my GITHUB repositories
 
 🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) , C(1)
+
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
