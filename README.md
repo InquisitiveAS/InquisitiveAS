@@ -19,9 +19,10 @@
 
 🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) , C(1)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="arabhishek11" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/arabhishek11?trk=profile-badge">Abhishek S.</a></div>
-              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arabhishek11" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/arabhishek11?trk=profile-badge">Abhishek S.</a></div>
+              
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
