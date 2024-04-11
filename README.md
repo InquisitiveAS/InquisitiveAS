@@ -5,13 +5,13 @@
 
 👨 An architect by profession and maker by curiosity working towards a Software Developer Career Path (BIM, AEC Tool development, AEC DfMA & Construction Robotics). 
    
-⚡Goal: Seek perfect balance between AECFabrication (Dfma)[CNC,CAD-CAM,Robotic & Digital], Robotics Engineering[AEC focused] & Computational Design workflows[AEC focused]
+⚡Goal: Seek perfect balance between AECFabrication (Dfma)[CNC,CAD-CAM,Robotic & Digital] & Computational Design workflows[AEC focused]
 
-🔭 I'm independently developing(free time): Open Source Computational tools for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.
+🔭 I'm independently developing(free time): Open Source Packages for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.STAY TUNED!!
 
 👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning, Data Science, Robotics Engineering, Computational Design, and Software Development).
 
-🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma
+🌱 I’m currently learning: 💻Technology Stack for Computational design
 
 💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industrialized and roboticized), Robotic Fabrication, and AEC Software development.
 
@@ -25,21 +25,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=InquisitiveAS&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=InquisitiveAS&langs_count=5&theme=tokyonight)]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
