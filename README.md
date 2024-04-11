@@ -11,11 +11,11 @@
 
 👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning, Data Science, Robotics Engineering, Computational Design, and Software Development).
 
-🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma: &darr; 
+🌱 I’m currently learning: 💻 Development Technology Stack for Computational design in AEC Dfma
 
-💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industrialized and roboticized), Construction Robotics, Robotic Fabrication, and AEC Software development.
+💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industrialized and roboticized), Robotic Fabrication, and AEC Software development.
 
-📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu for my GITHUB repositories
+📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu for collaboration
 
 🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) , C(1)
  
