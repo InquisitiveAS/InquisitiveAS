@@ -1,4 +1,4 @@
-### 🙏Namaste  👋Hola   👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは  👋привет
+### 🙏नमस्ते  👋Hola   👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは  👋привет 👋Cześć
 
 
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
