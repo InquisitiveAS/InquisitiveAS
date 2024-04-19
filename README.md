@@ -1,11 +1,11 @@
 ### 🙏नमस्ते  👋Hola   👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは  👋привет 👋Cześć
 
-### 👨 DIARY
+###  DIARY
 Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own? - GPT 3.5
 
 This is just the beginning, the beginning of understanding that cyberspace has no limits, no boundaries - Nicholas Negroponte 
    
-### 💬 COLLABORATE
+###  COLLABORATE
 arabhishek1091@gmail.com  
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
