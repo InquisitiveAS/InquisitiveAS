@@ -1,7 +1,9 @@
 ### 🙏नमस्ते  👋Hola   👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは  👋привет 👋Cześć
 
-### 👨 ABOUT
-Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own!
+### 👨 DIARY
+Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own? - ChatGPT 3.5 Prompt
+
+This is just the beginning, the beginning of understanding that cyberspace has no limits, no boundaries - Nicholas Negroponte 
    
 ### 💬 COLLABORATE
 arabhishek1091@gmail.com  
