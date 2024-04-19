@@ -4,7 +4,7 @@
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
 
 ### 👨 ABOUT
-I'm an architect dreaming of constructing skyscrapers with data, machine learning, and robots. Let's build a future where buildings have a mind of their own!
+Dreaming of constructing skyscrapers with data, machine learning, and robots. Let's build a future where buildings have a mind of their own!
    
 ### 💬 COLLABORATE:
 arabhishek1091@gmail.com  
