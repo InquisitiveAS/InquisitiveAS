@@ -3,23 +3,15 @@
 
 # <h1 align="center">I'm Abhishek S Shinde.</h1>
 
-👨 An architect by profession and maker by curiosity working towards a Software Developer Career Path (BIM, AEC Tool development, AEC DfMA & Construction Robotics). 
+### 👨 ABOUT
+An architect by profession and Maker by curiosity working towards a Software Developer Career Path 
+(Building Information Modeling, AEC Software Development, Computational Design, Structural Engineering, AEC DfMA). 
    
-⚡Goal: Seek perfect balance between AECFabrication (Dfma)[CNC,CAD-CAM,Robotic & Digital] & Computational Design workflows[AEC focused]
+## 💬 LET'S COLLABORATE:
+arabhishek1091@gmail.com  
 
-🔭 I'm independently developing(free time): Open Source Packages for AEC🚧 problems at the intersection of 💻,🤖,🏭 and 👷AEC Humans.STAY TUNED!!
-
-👯 I’m looking to collaborate on: Solving AEC🚧 problems using Technology(Deep Learning, Data Science, Robotics Engineering, Computational Design, and Software Development).
-
-🌱 I’m currently learning: 💻Technology Stack for Computational design
-
-💬 Ask me about: Computational Design, DfMa CAD-BIM for AEC (Industrialized and roboticized), Robotic Fabrication, and AEC Software development.
-
-📫 How to reach me: arabhishek1091@gmail.com or ashinde@umich.edu for collaboration
-
-🔬 Year of Experience : Python(3) , C#(3) , .NET Core(1) , C++(0.3), Javascript(0.3) , VB.NET(0.1) , C(1)
+## WEBSITE COMING SOON 
  
-
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
 
