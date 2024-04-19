@@ -2,9 +2,11 @@
 
 ###  Stimulus
 
-Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own? - GPT 3.5
+* *Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own?* *
+# GPT 3.5
 
-This is just the beginning, the beginning of understanding that cyberspace has no limits, no boundaries - Nicholas Negroponte 
+* *This is just the beginning, the beginning of understanding that cyberspace has no limits, no boundaries* *
+# Nicholas Negroponte 
    
 ###  Collaborate
 arabhishek1091@gmail.com  
