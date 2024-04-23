@@ -1,4 +1,4 @@
-### 🙏नमस्ते  👋Hola   👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは  👋привет 👋Cześć
+### 🙏नमस्ते  👋Hola  👋Olá 👋Hallo  👌Ciao  👋Hi  👋你好  👋안녕  👋こんにちは  👋привет 👋Cześć
 
 ###  Stimulus
 
