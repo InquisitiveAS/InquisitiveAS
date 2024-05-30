@@ -12,6 +12,8 @@ _"This is just the beginning, the beginning of understanding that cyberspace has
 
 *I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015. Will be back soon on those vlogs. exDAS means "Exploratory discourse for architectural systems".Architectural Systems is just a metaphor !!*
 
+*I am working on OSS( Open Source Softwares) AEC Technologies* 
+
 
    
 ###  Collaborate
