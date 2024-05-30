@@ -8,7 +8,7 @@ _"This is just the beginning, the beginning of understanding that cyberspace has
 
 *"I love to sketch humans(speed-sketching), weight lifting, going on trails, and love cooking. I love coffee-hoping,food-tasting, and wine-tasting on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
 
-*"AEC Tech(Data, ML,IOT), Biomaterials, and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster. It's the fuel which drives me"*
+*"AEC Tech(Data, ML,IOT) and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster. It's the fuel which drives me"*
 
 *I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015. Will be back soon on those vlogs. exDAS means "Exploratory discourse for architectural systems".Architectural Systems is just a metaphor !!*
 
