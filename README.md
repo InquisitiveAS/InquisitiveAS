@@ -6,7 +6,7 @@ _"This is just the beginning, the beginning of understanding that cyberspace has
 
 *"I love to sketch humans(speed-sketching), weight lifting, going on trails, and love cooking. I love coffee-hoping,food-tasting, and wine-tasting on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
 
-*"I am working on OSS( Open Source Softwares) AEC Technologies"* 
+*"I am working on OSS( Open Source Softwares) AEC Technologies! "* 
 
 ###  Collaborate
 arabhishek1091@gmail.com  
