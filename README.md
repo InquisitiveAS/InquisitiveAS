@@ -2,11 +2,11 @@
 
 ###  Stimulus
 
-_"This is just the beginning, the beginning of understanding that cyberspace has no limits, no boundaries!"_ ~ Nicholas Negroponte 
+_"This is just the beginning of understanding that cyberspace has no limits, no boundaries!"_ ~ Nicholas Negroponte 
 
-*"I love to sketch humans(speed-sketching), weight lifting, going on trails, and love cooking. I love coffee-hoping,food-tasting, and wine-tasting on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
+*"I love sketching humans(speed-sketching), weight lifting, going on trails, and cooking. I love coffee-hoping,food-tasting, and wine-tasting on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
 
-*"I am working on FOSS( Free & Open Source Software) AEC Technologies !"* 
+*"I am building AEC Tech on the top of AEC OSS(Open Source Software)Technologies !"* 
 
 ###  Collaborate
 arabhishek1091@gmail.com  
