@@ -1,5 +1,7 @@
 ### 🙏नमस्ते , I am Abhishek Shinde 
 
+Computational designer | Software Engineer( Machine Learning, Full Stack, Data Engineer)  | BIM Developer
+
 ###  Stimulus
 
 _"This is just the beginning of understanding that cyberspace has no limits, no boundaries!"_ ~ Nicholas Negroponte 
