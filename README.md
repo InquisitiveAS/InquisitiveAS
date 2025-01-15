@@ -1,14 +1,12 @@
-### 🙏नमस्ते 
+### 🙏नमस्ते , I am Abhishek Shinde 
 
 ###  Stimulus
 
 _"This is just the beginning of understanding that cyberspace has no limits, no boundaries!"_ ~ Nicholas Negroponte 
 
-*"I love sketching humans(speed-sketching), weight lifting, going on trails, and cooking. I love coffee-hoping,food-tasting, and wine-tasting on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
-
 *"I am building AEC Tech on the top of AEC OSS(Open Source Software)Technologies !"* 
 
-###  Collaborate
+###  Collaborate 
 arabhishek1091@gmail.com  
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
