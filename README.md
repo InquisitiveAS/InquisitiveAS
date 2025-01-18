@@ -1,6 +1,6 @@
 ### 🙏नमस्ते , I am Abhishek Shinde 
 
-#### Computational designer & developer | Software Engineer( Aspiring Machine Learning Engineer )  | BIM Applications Developer
+#### Computational designer | Software Developer ( Aspiring Machine Learning Engineer )  | BIM Applications Developer
 
 ###  Stimulus
 
