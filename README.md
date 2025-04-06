@@ -1,6 +1,6 @@
 ### 🙏नमस्ते , I am Abhishek Shinde 
 
-#### Licensed Architect :india: 🏗️ | Software Developer | Machine Learning Engineer | BIM & Computational Design Application Developer ( Rhinocommon & Revit API & more) | Computer Graphics 
+#### Licensed Architect :india: 🏗️ | Software Developer | Machine Learning Engineer | BIM & Computational Design Application Developer ( Rhinocommon & Revit API & more) | Computer Graphics | Digital Fabrication &  Manufacturing
 
 ###  Stimulus
 
