@@ -13,7 +13,9 @@ arabhishek1091@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=InquisitiveAS&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=InquisitiveAS&count_private=true&theme=tokyonight&show_icons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=InquisitiveAS&langs_count=5&theme=tokyonight)]()
+[![Followers](https://img.shields.io/github/followers/InquisitiveAS?label=Followers&style=for-the-badge&logo=github&color=brightgreen)](https://github.com/InquisitiveAS?tab=followers)
+[![Stars](https://img.shields.io/github/stars/InquisitiveAS?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=yellow)](https://github.com/InquisitiveAS?tab=repositories)
+[![Years on GitHub](https://img.shields.io/badge/Years_on_GitHub-since_2018-blue?style=for-the-badge&logo=github)](https://github.com/InquisitiveAS)
 
 
 
